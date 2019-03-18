@@ -1,0 +1,5 @@
+# 过滤文件
+node_modules/
+.idea/
+.vscode/
+dist/
